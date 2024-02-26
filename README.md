@@ -29,8 +29,8 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> 
    </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nithesh06kumar&show_icons=true&locale=en" alt="nithesh06kumar" width="450" height="250" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithesh06kumar&show_icons=true&locale=en&layout=compact" alt="nithesh06kumar" width="400" height="250" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nithesh06kumar&show_icons=true&locale=en" alt="nithesh06kumar" width="350" height="250" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithesh06kumar&show_icons=true&locale=en&layout=compact" alt="nithesh06kumar" width="300" height="250" /></p>
 <br/>
 
 
